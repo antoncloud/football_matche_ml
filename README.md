@@ -1,7 +1,5 @@
-# football_matche_ml
-Building simple machine learning model for football match data
 
-# football_matche_ml
+# Football_matche_ml
 Building simple machine learning model for football match data
 
 # Project Overview
